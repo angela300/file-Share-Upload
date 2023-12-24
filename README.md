@@ -1,4 +1,4 @@
-This app works to uploa files to firebase. 
+This app works to upload **Images** to firebase. 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
